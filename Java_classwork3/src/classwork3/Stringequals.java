@@ -16,6 +16,8 @@ public class Stringequals {
 		System.out.println(s1.equalsIgnoreCase(s3));
 		System.out.println(s1.equals(s4));
 		
+		System.out.println("hello");
+		
 
 	}
 
